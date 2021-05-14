@@ -1,1 +1,1 @@
-[Photo of an emu's face](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.whitehousefarmcentre.co.uk%2Fanimals%2Fbirds%2Femu%2F&psig=AOvVaw0sDCCFP6CrwaFXkeXX3nrb&ust=1621070363637000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDYnfDryPACFQAAAAAdAAAAABAD)
+![Photo of an emu's face](https://www.whitehousefarmcentre.co.uk/media/1332/emus.jpg)
